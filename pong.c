@@ -8,6 +8,7 @@
     Made by CCC
     Really shitty non trivial project to improve skill
     Use W and S to control paddle
+    Use ctrl + z to exit out of game
     IDE Used: VSCodium
 */ 
 
