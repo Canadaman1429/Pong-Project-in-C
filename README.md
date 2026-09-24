@@ -1,1 +1,1 @@
-Shitty version of pong in C.
+My recreation of pong in C.
