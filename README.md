@@ -1,1 +1,1 @@
-My recreation of pong in C.
+My recreation of Pong in C.
